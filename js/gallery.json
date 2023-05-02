@@ -1,0 +1,48 @@
+[
+    {
+      "src": "img/01.png",
+      "alt": "Me",
+      "caption": "When I was in upside down house"
+    },
+    {
+        "src": "img/02.png",
+        "alt": "Me",
+        "caption": "Bathroom Mirror"
+    },
+    {
+        "src": "img/03.png",
+        "alt": "Student Life",
+        "caption": "When I was foundation year student"
+    },
+    {
+        "src": "img/04.png",
+        "alt": "Me",
+        "caption": "Just a photo of me"
+    },
+    {
+        "src": "img/05.png",
+        "alt": "Younger Me",
+        "caption": "When I was in 1 grade class"
+      },
+      {
+          "src": "img/06.png",
+          "alt": "Artwork",
+          "caption": "My Artwork"
+      },
+      {
+          "src": "img/07.png",
+          "alt": "Artwork",
+          "caption": "Artwork"
+      },
+      {
+          "src": "img/08.png",
+          "alt": "Artwork",
+          "caption": "Artwork"
+      },
+      {
+        "src": "img/09.png",
+        "alt": "Artwork",
+        "caption": "Artwork"
+    }     
+  ]
+  
